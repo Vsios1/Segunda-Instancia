@@ -33,3 +33,4 @@ C:\Users\HP VICTOR\Programador\Ucatec\Segunda_Instancia\Elecciones_API\obj\Debug
 C:\Users\HP VICTOR\Programador\Ucatec\Segunda_Instancia\Elecciones_API\obj\Debug\net10.0\Elecciones_API.pdb
 C:\Users\HP VICTOR\Programador\Ucatec\Segunda_Instancia\Elecciones_API\obj\Debug\net10.0\Elecciones_API.genruntimeconfig.cache
 C:\Users\HP VICTOR\Programador\Ucatec\Segunda_Instancia\Elecciones_API\obj\Debug\net10.0\ref\Elecciones_API.dll
+C:\Users\HP VICTOR\Programador\Ucatec\Segunda_Instancia\Elecciones_API\obj\Debug\net10.0\Elecciones_API.sourcelink.json
